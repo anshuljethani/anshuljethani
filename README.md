@@ -5,7 +5,8 @@
 
 - 📫 How to reach me **anshuljethani777@gmail.com**
 
-### Blogs posts
+### Blogs posts -
+http://bit.ly/4goeS6N
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
