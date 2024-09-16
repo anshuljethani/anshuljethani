@@ -1,4 +1,4 @@
-<h1 align="center">Heylo 👋, I'm Anshul</h1>
+<h1 align="center">Hello 👋, I'm Anshul</h1>
 <h3 align="center">Passionate machine learning enthusiast with a keen interest in exploring and applying innovative techniques in the field.</h3>
 
 - 📫 How to reach me **anshuljethani777@gmail.com**
