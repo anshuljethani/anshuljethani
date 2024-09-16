@@ -1,6 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hello 👋, I'm Anshul</h1>
 <h3 align="center">Passionate machine learning enthusiast with a keen interest in exploring and applying innovative techniques in the field.</h3>
-
+(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshuljethani&label=Profile%20views&color=0e75b6&style=flat" alt="anshuljethani" /> </p>
 
 - 📫 How to reach me **anshuljethani777@gmail.com**
@@ -25,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshuljethani&" alt="anshuljethani" /></p>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
