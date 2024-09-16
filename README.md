@@ -1,4 +1,4 @@
-<h1 align="center">Heylo 👋, I'm Anshul</h1>
+<h1 align="center">Hello 👋, I'm Anshul</h1>
 <h3 align="center">Passionate machine learning enthusiast with a keen interest in exploring and applying innovative techniques in the field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshuljethani&label=Profile%20views&color=0e75b6&style=flat" alt="anshuljethani" /> </p>
@@ -25,5 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshuljethani&" alt="anshuljethani" /></p>
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
