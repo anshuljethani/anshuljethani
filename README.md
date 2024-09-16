@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello 👋, I'm Anshul</h1>
 <h3 align="center">Passionate machine learning enthusiast with a keen interest in exploring and applying innovative techniques in the field.</h3>
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...]([https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F05uhd2ihjs671.gif%3Fwidth%3D1920%26auto%3Dwebp%26s%3D2cfe2e79dafaccd849f4d2b7f2622ea565c748af)")
+(img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGZyZWRnNS0wYTYwZTg3NS02NDZlLTRkNmMtYmI5MS03MzA4NmYwMTI4MDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LGN_eGL7dT0xRj4oRbyRRVay-pHbyiXHru7YoVPcRro")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshuljethani&label=Profile%20views&color=0e75b6&style=flat" alt="anshuljethani" /> </p>
 
 - 📫 How to reach me **anshuljethani777@gmail.com**
